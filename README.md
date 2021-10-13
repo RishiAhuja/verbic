@@ -1,8 +1,6 @@
 <br />
 <p align="center">
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/0Fjtgsu1Vwg&t=28s">
-</iframe>
+[![Verbic trailer](https://img.youtube.com/vi/0Fjtgsu1Vwg/0.jpg)](https://www.youtube.com/watch?v=0Fjtgsu1Vwg)
  <p>
   <br>
    <br>
