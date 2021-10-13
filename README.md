@@ -5,9 +5,11 @@
   <br>
    <br>
    <br>
+  <div align='center'>
   <a href="https://verbic.web.app">
     <img src="assets/icon.png" alt="Logo" width="80" height="80">
   </a>
+</div>
 
   <h3 align="center">Verbic</h3>
 
@@ -33,43 +35,43 @@
 <!-- ABOUT THE PROJECT -->
 ## Light mode
 <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/light/1.png">
-    <img src="assets/readme/light/1.jpg" alt="screen1", height=30%, width=30%>
+    <img src="assets/readme/light/1.png" alt="screen1", height=30%, width=30%>
   </a>
 <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/light/2.png">
-    <img src="assets/readme/light/2.jpg" alt="screen2", height=30%, width=30%>
+    <img src="assets/readme/light/2.png" alt="screen2", height=30%, width=30%>
   </a>
 <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/light/3.png">
-    <img src="assets/readme/light/3.jpg" alt="screen3", height=30%, width=30%>
+    <img src="assets/readme/light/3.png" alt="screen3", height=30%, width=30%>
   </a>
   <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/light/4.png">
-    <img src="assets/readme/light/4.jpg" alt="screen3", height=30%, width=30%>
+    <img src="assets/readme/light/4.png" alt="screen3", height=30%, width=30%>
   </a>
   <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/light/5.png">
-    <img src="assets/readme/light/5.jpg" alt="screen3", height=30%, width=30%>
+    <img src="assets/readme/light/5.png" alt="screen3", height=30%, width=30%>
   </a>
   <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/light/6.png">
-    <img src="assets/readme/light/6.jpg" alt="screen3", height=30%, width=30%>
+    <img src="assets/readme/light/6.png" alt="screen3", height=30%, width=30%>
   </a>
 <br>
 
 ## Dark mode
 <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/dark/1.png">
-    <img src="assets/readme/dark/1.jpg" alt="screen1", height=30%, width=30%>
+    <img src="assets/readme/dark/1.png" alt="screen1", height=30%, width=30%>
   </a>
 <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/dark/2.png">
-    <img src="assets/readme/dark/2.jpg" alt="screen2", height=30%, width=30%>
+    <img src="assets/readme/dark/2.png" alt="screen2", height=30%, width=30%>
   </a>
 <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/dark/3.png">
-    <img src="assets/readme/dark/3.jpg" alt="screen3", height=30%, width=30%>
+    <img src="assets/readme/dark/3.png" alt="screen3", height=30%, width=30%>
   </a>
   <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/dark/4.png">
-    <img src="assets/readme/dark/4.jpg" alt="screen3", height=30%, width=30%>
+    <img src="assets/readme/dark/4.png" alt="screen3", height=30%, width=30%>
   </a>
   <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/dark/5.png">
-    <img src="assets/readme/dark/5.jpg" alt="screen3", height=30%, width=30%>
+    <img src="assets/readme/dark/5.png" alt="screen3", height=30%, width=30%>
   </a>
   <a href="https://raw.githubusercontent.com/RishiAhuja/dictionary/master/assets/readme/dark/6.png">
-    <img src="assets/readme/dark/6.jpg" alt="screen3", height=30%, width=30%>
+    <img src="assets/readme/dark/6.png" alt="screen3", height=30%, width=30%>
   </a>
 <br>
 Verbic is a open source dictionary with all the features you will ever need, This package includes iconic results, lottie animations, translation, powerful bounce search bar, History trakin, like/bookmark counter & Dark mode. 
