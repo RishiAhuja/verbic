@@ -9,7 +9,7 @@
     <img src="assets/shortspark.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Short Spark</h3>
+  <h3 align="center">Verbic</h3>
 
   
   <p align="center">
