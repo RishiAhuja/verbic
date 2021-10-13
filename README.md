@@ -1,6 +1,10 @@
 <br />
+<h3 align='center'>Trailer</h3>
 <p align="center">
-[![Verbic trailer](https://img.youtube.com/vi/0Fjtgsu1Vwg/0.jpg)](https://www.youtube.com/watch?v=0Fjtgsu1Vwg)
+
+ <a href="https://www.youtube.com/watch?v=0Fjtgsu1Vwg" align='center'>
+    <img src="https://img.youtube.com/vi/0Fjtgsu1Vwg/0.jpg" alt="screen1", height=30%, width=30%>
+  </a>
  <p>
   <br>
    <br>
