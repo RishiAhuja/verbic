@@ -99,7 +99,7 @@ At the top right corner you will be provided with Like counter, history panel, a
 
 Rishi Ahuja - [Github Portfolio](https://rishiahuja.github.io/my-portfolio) <br>
 [Email](mailto:www.rishiahuja@gmail.com) <br>
-Short Spark: [Project link](https://github.com/RishiAhuja/dictionary)<br>
+Verbic: [Project link](https://github.com/RishiAhuja/dictionary)<br>
 
 ## Acknowledgements
 * [Owlbot.info](https://owlbot.info)
