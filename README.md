@@ -78,7 +78,7 @@
     <img src="assets/readme/dark/6.png" alt="screen3", height=30%, width=30%>
   </a>
 <br>
-Verbic is a open source dictionary with all the features you will ever need, This package includes iconic results, lottie animations, translation, powerful bounce search bar, History trakin, like/bookmark counter & Dark mode. 
+Verbic is a open source dictionary with all the features you will ever need, This package includes iconic results, lottie animations, translation, powerful search bar, History tracking, like/bookmark counter & Dark mode. 
 
 ### Built With
 
@@ -91,7 +91,7 @@ Verbic is a open source dictionary with all the features you will ever need, Thi
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get started you have to go to <a href='https://verbic.web.app'>Verbic</a> and type something in the search bar, youw will probably get a releated image, part-of-speech, like button, pronounciation, defination, example etc... <br>
+To get started you have to go to <a href='https://verbic.web.app'>Verbic</a> and type something in the search bar, you will probably get a releated image, part-of-speech, like button, pronounciation, definition, example etc. <br>
 At the top right corner you will be provided with Like counter, history panel, and theme manager.
 
 <!-- CONTACT -->
