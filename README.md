@@ -24,6 +24,9 @@
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
 
+> ⚠️ Important Notice
+> The live demo may be unavailable as the underlying API has been deprecated. For a complete demonstration of all features and functionality, please watch our [demo video on YouTube](https://www.youtube.com/watch?v=0Fjtgsu1Vwg).
+
 ## 🌟 Features
 
 - 📚 **Comprehensive Dictionary** - Powered by Owlbot API for accurate definitions
@@ -113,7 +116,8 @@ Contributions are what make the open source community such an amazing place to l
 
 Rishi Ahuja
 - Portfolio: [Github Portfolio](https://rishiahuja.github.io/my-portfolio)
-- Email: [www.rishiahuja@gmail.com](mailto:www.rishiahuja@gmail.com)
+- Email: [www.rishiahuja@gmail.com](mailto:www.rishiahuja@gmail.com)> :memo: **Note:** The released version is a rolled-back version due to server-side issues, view the video below to find out the full capabilities.
+
 - Project Link: [https://github.com/RishiAhuja/dictionary](https://github.com/RishiAhuja/dictionary)
 
 ## 🙏 Acknowledgements
@@ -130,8 +134,9 @@ Rishi Ahuja
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
 </a>
 
+[Previous sections remain the same until the Follow Me section...]
+
 ## 📱 Follow Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_rishi__ahuja)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZF3uzRaNdRBSsBrHpQJXkA)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/rishi.ahuja.75470/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Rishi2220)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-ahuja-b1a224310/)
