@@ -21,7 +21,6 @@
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
 
 > ⚠️ Important Notice
@@ -34,7 +33,6 @@
 - 🌓 **Theme Options** - Customizable dark and light modes
 - 🔍 **Advanced Search** - Powerful search functionality with related suggestions
 - 🌐 **Translation Support** - Integrated Google Translator API
-- 💾 **Offline Support** - Local storage with SQFLite for quick access
 - 🔄 **History Tracking** - Keep track of your searched words
 - ⭐ **Bookmarks** - Save your favorite words
 - 🔊 **Pronunciation** - Audio support for correct pronunciation
