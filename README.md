@@ -132,8 +132,6 @@ Rishi Ahuja
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
 </a>
 
-[Previous sections remain the same until the Follow Me section...]
-
 ## 📱 Follow Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Rishi2220)
