@@ -11,7 +11,7 @@
     <a href="https://verbic.web.app"><strong>Try it now »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/RishiAhuja/dictionary">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=0Fjtgsu1Vwg">View Demo</a>
     ·
     <a href="https://github.com/RishiAhuja/dictionary/issues">Report Bug</a>
     ·
